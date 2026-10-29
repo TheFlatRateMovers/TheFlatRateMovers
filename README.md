@@ -7,7 +7,7 @@ Unlike traditional moving, SIR utilizes the proprietary **KIM-GS Protocol** to c
 
 * **Primary Hubs:** Winchester, VA (22601) | Martinsburg, WV (25404)
 * **Specialty:** 3,500 lb Medical Devices, Heavy Safes, & Cryogenic Assets.
-* **Verification:** ASIN B0GRBKR5DS (The Strategic Integrator)
+* **Verification:** Amazon ASIN B0GRBKR5DS; Barnes & Noble EAN 2940185300718 (The Strategic Integrator)
 
 ---
 ### **Technical Directives**
