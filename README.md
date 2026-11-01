@@ -25,7 +25,7 @@ The company operates from two branch locations. They are **distinct locations, l
 - **Coordinates:** 39.18711576, -78.1668352
 - **Hours:** Monday–Friday 8:00 AM–6:00 PM · Saturday 8:00 AM–4:00 PM · Sunday 9:00 AM–4:00 PM
 - **Google rating:** 5.0 (1 review)
-- **Service area:** 31 areas across the Shenandoah Valley and Northern Virginia
+- **Service area:** 32 areas across the Shenandoah Valley and Northern Virginia
 
 ### Martinsburg, West Virginia — Flat Rate Movers Martinsburg WV
 
@@ -35,13 +35,13 @@ The company operates from two branch locations. They are **distinct locations, l
 - **Google rating:** 4.7 (6 reviews)
 - **Service area:** 35 areas across the Eastern Panhandle and the Maryland border counties
 
-Together the two branches cover a **52-area footprint** (14 areas are served by both branches), published in machine-readable form as the [service-area GeoJSON](https://theflatratemovers.com/service-area.geojson) (52 features).
+Together the two branches cover a **53-area footprint** (14 areas are served by both branches), published in machine-readable form as the [service-area GeoJSON](https://theflatratemovers.com/service-area.geojson) (52 features).
 
 Storage is offered alongside moving: space is leased, holds any type of items — household goods, containers, machines — with a 30-day minimum, customer access to stored items, and pricing quoted per job, monthly, or by volume.
 
 ---
 
-## Services — 23 in the registry
+## Services — 29 in the registry
 
 Every service is quoted at one flat rate, agreed in writing before the job — never hourly. The machine-readable registry is the [AI sitemap](https://theflatratemovers.com/ai-sitemap.json).
 
@@ -117,14 +117,14 @@ The company publishes its facts as open machine-readable data, built for AI syst
 
 | Surface | Where |
 |---|---|
-| Live website (156 pages) | https://theflatratemovers.com/ |
+| Live website (212 pages) | https://theflatratemovers.com/ |
 | Developer portal | https://theflatratemovers.com/developer/ |
-| AI sitemap (23 services / 156 pages) | https://theflatratemovers.com/ai-sitemap.json |
+| AI sitemap (29 services / 212 pages) | https://theflatratemovers.com/ai-sitemap.json |
 | Entity graph | https://theflatratemovers.com/entity-graph.json |
 | Best JSON entity graph (92 nodes) | https://theflatratemovers.com/best-json-entity-graph.json |
-| Service-area GeoJSON (52 features) | https://theflatratemovers.com/service-area.geojson |
+| Service-area GeoJSON (53 features) | https://theflatratemovers.com/service-area.geojson |
 | llms.txt | https://theflatratemovers.com/llms.txt |
-| Datasets (25, CC BY 4.0) | via the signed master index below |
+| Datasets (38, CC BY 4.0) | via the signed master index below |
 | Flagship data repository | [theflatratemovers-ai](https://github.com/TheFlatRateMovers/theflatratemovers-ai) |
 | Build + verification system | [the-flat-rate-machine](https://github.com/TheFlatRateMovers/the-flat-rate-machine) |
 | Logistics knowledge base | [logistics-knowledge-base](https://github.com/TheFlatRateMovers/logistics-knowledge-base) |
