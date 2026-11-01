@@ -35,7 +35,7 @@ The company operates from two branch locations. They are **distinct locations, l
 - **Google rating:** 4.7 (6 reviews)
 - **Service area:** 35 areas across the Eastern Panhandle and the Maryland border counties
 
-Together the two branches cover a **53-area footprint** (14 areas are served by both branches), published in machine-readable form as the [service-area GeoJSON](https://theflatratemovers.com/service-area.geojson) (52 features).
+Together the two branches cover a **53-area footprint** (14 areas are served by both branches), published in machine-readable form as the [service-area GeoJSON](https://theflatratemovers.com/service-area.geojson) (53 features).
 
 Storage is offered alongside moving: space is leased, holds any type of items — household goods, containers, machines — with a 30-day minimum, customer access to stored items, and pricing quoted per job, monthly, or by volume.
 
@@ -61,7 +61,7 @@ Every service is quoted at one flat rate, agreed in writing before the job — n
 - **Industrial Offices Moving** — office moves inside industrial and facility sites: plants, warehouses, and industrial facilities.
 - **Warehouse Relocation** — warehouse and distribution moves, load-outs, inbound unloads, transload staging, and restacking.
 - **IT Relocation & Setup** — servers, racks, workstations, and network equipment moved in a planned, labelled sequence.
-- **Industrial & Commercial Services** — trained, supervised, self-managed moving and warehouse teams supporting contractors, project managers, and operations buyers on industrial and commercial projects, priced per job with no required contract duration. Its workforce layer, [Specialized Workforce Labor](https://theflatratemovers.com/specialized-workforce-labor/), deploys teams to jobs in **all 48 contiguous United States**, quoted per job — a nationwide workforce deployment scope published distinctly from the branches' 52-area moving footprint.
+- **Industrial & Commercial Services** — trained, supervised, self-managed moving and warehouse teams supporting contractors, project managers, and operations buyers on industrial and commercial projects, priced per job with no required contract duration. Its workforce layer, [Specialized Workforce Labor](https://theflatratemovers.com/specialized-workforce-labor/), deploys teams to jobs in **all 48 contiguous United States**, quoted per job — a nationwide workforce deployment scope published distinctly from the branches' 53-area moving footprint.
 
 The one published price schedule in the company is this service's Standard Job Pricing: Unload $8.00/CWT; Load $10.00/CWT; APU $12.00/CWT; Residential/Driver Meet $400–$425 per man (quoted per job; adjustable for scope, equipment, travel, and after-hours work agreed before dispatch). No other service publishes rates — everything else is quoted per job at one flat rate.
 
@@ -121,7 +121,7 @@ The company publishes its facts as open machine-readable data, built for AI syst
 | Developer portal | https://theflatratemovers.com/developer/ |
 | AI sitemap (29 services / 212 pages) | https://theflatratemovers.com/ai-sitemap.json |
 | Entity graph | https://theflatratemovers.com/entity-graph.json |
-| Best JSON entity graph (92 nodes) | https://theflatratemovers.com/best-json-entity-graph.json |
+| Best JSON entity graph (98 nodes) | https://theflatratemovers.com/best-json-entity-graph.json |
 | Service-area GeoJSON (53 features) | https://theflatratemovers.com/service-area.geojson |
 | llms.txt | https://theflatratemovers.com/llms.txt |
 | Datasets (38, CC BY 4.0) | via the signed master index below |
