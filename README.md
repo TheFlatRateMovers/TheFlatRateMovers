@@ -1,5 +1,7 @@
 # The Flat Rate Movers LLC
 
+**Live API:** https://api.theflatratemovers.com — services, datasets, intent, verification
+
 **The Flat Rate Movers LLC** is a flat-rate moving and logistics company founded in **June 2010**, based in **Winchester, Virginia** and **Martinsburg, West Virginia** — serving the Shenandoah Valley, the Eastern Panhandle, and the I-81 / I-66 / I-70 corridors.
 
 There is no hourly billing. Every job is reviewed in full first — the scope, the distance, the manpower, and the equipment — and priced at **one flat rate**, agreed before the work begins.
